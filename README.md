@@ -11,11 +11,12 @@ The purpose of this project is to use JavaScript to create a table to organize U
 This webpage has five different search boxes on the left side of the page, which includes date, city, state, country, and shape. User can use these five different search boxes to filter information and the exact results will be returned to this page.
 ![Election Result](https://github.com/ningci0723/UFO/blob/main/static/images/p2.png)
 
- For example, if you want to find all matched information in the State of CA, after you enter ca in the "Enter a State" filter box and press Enter, the results will be returned accordingly.
+For example, if you want to find all matched information in the State of CA, after you enter ca in the "Enter a State" filter box and press Enter, the results will be returned accordingly.
 ![Election Result](https://github.com/ningci0723/UFO/blob/main/static/images/p3.png)
 
 
 ## Summary
+
 1. One drawback of this webpage
 A dropdown list for each filter search box should be included.
 
